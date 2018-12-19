@@ -1,0 +1,14 @@
+{
+  "name": "marsaalamtrips",
+  "version": "1.0.0",
+  "description": "Marsa Alam Trips - tourist service website",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kirill Kontorez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
